@@ -1,0 +1,5 @@
+process\Instrument.class
+process\MappingRule.class
+process\test.class
+process\Entrance.class
+process\TxtLoader.class
